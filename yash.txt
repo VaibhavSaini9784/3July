@@ -1,2 +1,5 @@
-ram
+<<<<<<< HEAD
+=======
+hi there 
+>>>>>>> skit2
 this is the second line
